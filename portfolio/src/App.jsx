@@ -99,7 +99,7 @@ export default function Portfolio() {
       title: "Your Voice, Her Safety",
       description: "A secure platform empowering women to report unsafe areas, share experiences, and support community safety.",
       tech: ["REACT", "CSS", "NODEJS", "MYSQL"],
-      image: "src/components/pictures/projects/Your Voice, Her Safety.png",
+      image: "/projects/Your Voice, Her Safety.png",
       github: "https://github.com/Bucs0/Her-Voice-Her-Safety",
       website: "https://celebrated-begonia-cf9be6.netlify.app/"
     },
@@ -107,7 +107,7 @@ export default function Portfolio() {
       title: "Asus Laptop Showcase",
       description: "Modern laptop showcase website featuring the latest ASUS models with detailed specifications.",
       tech: ["HTML", "CSS"],
-      image: "src/components/pictures/projects/Asus Laptop.png",
+      image: "/projects/Asus Laptop.png",
       github: "https://github.com/Bucs0/ASUS-Laptop.github.oi",
       website: "https://bucs0.github.io/ASUS-Laptop.github.oi/"
     },
@@ -115,7 +115,7 @@ export default function Portfolio() {
       title: "Birth Month Calendar",
       description: "Single-featured calendar section of november design.",
       tech: ["HTML", "CSS"],
-      image: "src/components/pictures/projects/Calendar.png",
+      image: "/projects/Calendar.png",
       github: "https://github.com/Bucs0/Calendar-of-my-birth-month",
       website: "https://bucs0.github.io/Calendar-of-my-birth-month/"
     },
@@ -123,7 +123,7 @@ export default function Portfolio() {
       title: "Children's Story Platform",
       description: "Interactive storytelling platform for children with illustrations.",
       tech: ["HTML", "CSS", "JAVASCRIPT"],
-      image: "src/components/pictures/projects/Childrens Story.png",
+      image: "/projects/Childrens Story.png",
       github: "https://github.com/Bucs0/CHILDREN-STORY",
       website: "https://bucs0.github.io/CHILDREN-STORY/"
     },
@@ -131,7 +131,7 @@ export default function Portfolio() {
       title: "Minute Burger Catalog",
       description: "Digital menu catalog for Minute Burger which shows what's available and unavailable.",
       tech: ["HTML", "CSS"],
-      image: "src/Components/pictures/projects/Minute Burger Catalog.png",
+      image: "/projects/Minute Burger Catalog.png",
       github: "https://github.com/Bucs0/Minute-Burger-Catalog",
       website: "https://bucs0.github.io/Minute-Burger-Catalog/"
     },
@@ -139,7 +139,7 @@ export default function Portfolio() {
       title: "Zodiac Animals Guide",
       description: "Interactive guide to Chinese zodiac animals with personality traits.",
       tech: ["HTML", "CSS"],
-      image: "src/Components/pictures/projects/zodiac animals.png",
+      image: "/projects/zodiac animals.png",
       github: "https://github.com/Bucs0/The-12-Chinese-Zodiac-Animals",
       website: "https://bucs0.github.io/The-12-Chinese-Zodiac-Animals/"
     }
